@@ -6,11 +6,11 @@ class Reqtool < Formula
   on_macos do
     on_arm do
       url "http://file.qitab.io/reqtool/1.0.0/reqtool-1.0.0-aarch64-apple-darwin.tar.gz"
-      sha256 "fb60a6572202bbbc1540e29a5468192f1b9dde710fb66b8c548569b4731495c9"
+      sha256 "c82ec2de4162d01b59681fe01c35461761693dccb5ce14117b699583b8a59b4d"
     end
     on_intel do
       url "http://file.qitab.io/reqtool/1.0.0/reqtool-1.0.0-x86_64-apple-darwin.tar.gz"
-      sha256 "3dafbb906f4cc16774cbcb84848c40bc2049570c614b4c1a846443d7c66f173f"
+      sha256 "0fc70f86ee9440c0fbaa9f0f49f35cfc34e7407624596135c6b78e51aced454d"
     end
   end
 
